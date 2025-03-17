@@ -27,7 +27,8 @@ Statistical features), respectively.
   
    
 ** Classifier:
-   DDeepStacking.ipynb is the implementation of deep stacked classifier. 
+
+   DeepStacking.ipynb is the implementation of deep stacked classifier. 
    DNN.ipynb is the implementation of deep neural network.
    ET..ipynb is the implementation of Extra tree. 
    GRU.ipynb is the implementation of gated recurrent unit. 
