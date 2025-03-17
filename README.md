@@ -1,4 +1,4 @@
-##DeepStack-DTIs
+##Deepstack-NAb
 
 Deepstack-NAb: Using Lasso Feature Selection and Deep Stacked  Classifier.
 
